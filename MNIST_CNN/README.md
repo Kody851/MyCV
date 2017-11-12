@@ -19,7 +19,7 @@ https://github.com/wagonhelm/NaNmnist
 
 （另外有caffe实现）：http://blog.csdn.net/tianrolin/article/details/53542050
 
-![Example.png](https://github.com/Kody851/MNIST_CNN/blob/master/Example.png)
+![Example.png](https://github.com/Kody851/MyCV/blob/master/MNIST_CNN/Example.png)
 
 ## 3、convolution kernel 的可视化
 使用 Tensorboard
